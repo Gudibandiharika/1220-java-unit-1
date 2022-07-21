@@ -1,0 +1,12 @@
+Histroy of java
+*Java was designed for television but it is to advanced technology.
+*Father of Java is James Gosling.
+*java was investigated by james Gosling,Partrick Naughton and Mike sheridan.
+*Firstly java was named as green team with extension .gt.
+*After that was called  Oak and developed as a green project.
+*Why Oak? It is a symbol of strength and national tree.
+*In 1995 it was named as java. According to Gosling java was one of the top choices along with slik.
+*Java is the island in Indonesia where first coffee was produced.
+*In 1996 J.D.K-1.0 was released.
+*Now,java SE 18 version is available. 
+ 

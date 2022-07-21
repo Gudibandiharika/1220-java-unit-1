@@ -1,0 +1,13 @@
+Principles of OOPs
+1.Objects & Classes --> class is a blueprint of objects.
+2.Abstraction --> no need to define method.
+3.Encapsulation -->
+4.Inheritance --> parent child.
+5.polymorhism --> many morphs --> overloading & overridding.
+Why we need to follow these principles of OOPs?
+To implement real world entities.
+What is the purpose of OOPs principles?
+To develop appilications based on Objects.
+How we use these principles?
+* Create working methods and variables.
+* Reuse all or part of them without compromising security.

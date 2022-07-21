@@ -1,0 +1,10 @@
+Difference betwwen procedural and oops languages?
+procedural Languages : 1.Top to bottom approach.
+		       2.Less Secure.
+		       3.unreal entity.
+OOPs languages : 1.Down to Top approach.
+		 2.secure.
+		 3.real entity.
+Why we prefer OOPs when compare to procedural languages?
+*Level of abstraction.
+*Data hiding property.
