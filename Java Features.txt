@@ -1,0 +1,51 @@
+Java Features of Java..
+
+The features of Java are also known as Java buzzwords.
+
+1. Simple
+2. Oject-oriented 
+3. Portable
+4. Platform independent
+5. Secured
+6. Robust
+7. Architecture neutral 
+8. Interpreted.
+9. High performance 
+10.Multithreaded
+11.Distributed
+12.Dynamic
+--------------------------------------------------------------
+1.Simple : *Easy to learn
+	   *Simple syntax
+           *Easy understabd syntax based on c++
+           *Overloading
+           *No need to remove unreferenced objects at automatic garbafe collecion in java.
+2.Object-oriented : *Everything in java is an object
+		    *OOP means we organize our software as a combination of data & behaviour.
+3.Portable : It facilitates you to carry the java bytecode to any platform.
+4.Platform independent : Java provides a software-based platform
+				Two Components...
+				i)Runtime, ii)API(Application programming Interface).
+                         Ex:- Linux, window, Sun Solaris, Maclos etc.
+
+5.Secured:  * No explicit pointer 
+            * Java programs run inside a vm sandbox
+	    * Class leader.
+	    * Bytcode verifier
+	    * Security Manage.
+
+6.Robust:   *Strong memory management.
+	    *Lack of pointers that avoids security problems.
+	    *Automatic garbage collection in java not used in java application.
+	    *Exception handling.
+7. Architecture neutral: There are no implementation dependent features. 
+				 ex:- the size of primitive typesis fixed.
+
+8. Interpreted : Converts source code is first compiled into a binary byte-code.
+9. High performance: Java is faster than other traditional interpreted programming language because java bytecode is "close" to native code.
+10.Multithreaded: Execute concurrently doing many tasks at once by defining multiple threads.
+			*Share common memory area.
+			*Threads are important for multi-media, web applications.
+11.Distributed: RMI and EJB are used for creating distributed applications.
+12.Dynamic: *Classes are loaded on demand and functions from its native language.
+	    *Supports dynamic compilation.
