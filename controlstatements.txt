@@ -1,0 +1,20 @@
+CONTROL STATEMENTS
+*Decision Making statements
+1.if statements	-->if statement
+		-->if else if statement
+		-->else if statement
+2.switch statement
+*Loop statements
+1.do while loop
+2.while loop
+3.for loop
+4.for-each loop
+*Jump statements
+1.break statement
+2.continue statement
+-->Why this Decision Making Statements useful?
+	To decide whether a certain statement or block of statements are executed or not.
+-->Why this loop statements are useful?
+	To repeat a block of code.
+-->what happens if condition is not given in the Loop statements?
+	Loop will run as infinitely.
