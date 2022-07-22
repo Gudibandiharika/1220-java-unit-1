@@ -1,0 +1,37 @@
+								Java Architecture 
+JVM : Java Virtual Machine
+*Provide run time environment in which java byte code executed.
+*Jvm is platform dependent but implementation is independent.
+*Implementation of JRE.
+*Opertions of JVM : -->Load Code
+		    -->Verifies Code
+		    -->Executes Code
+		    -->Provides Runtime Environment
+*Definitions of JVM : -->Memory Area
+		      -->Class File Format
+		      -->Register Set
+		      -->Garbage Collected Heap
+		      -->Fatal Error Reporting
+1.Class Loader
+    *Subsystem of JVM to load class files.
+    *There are 3 types. 
+       a)Bootstrap - Frist classloader super class of exstends classloader.Loads.rt extension Jar file which contains all class file.
+       b)Extension - child classloader of Boot and parent classloader of System.Loads Toor files located inside. 
+       c)System /Application  - child of class loader of Extension classloader loads the class files from class Path.
+2. class Area: Areas Stores pre-class structure.
+3. Heap: runtime data area - objects are allocated.
+4. Stack: holds local variables, Each thread has a private JVM stack, created at the same time as thread.
+*A new frame is created each time a method is invoked.A frame is destroyed when its method invocation completes.
+5. Program counter Register: address of the Java VM instruction currently being executed. 
+6. Native Method stack: native methods uesd in applications.
+7. Execution engine:
+        *A virtual processor.
+        *Interpreter - read byr code stream then execute the instructions.
+        *Just-in-time compiler(JIT).
+8. Java Native Interface(JNI): its a framework which provides an interface to communicate with another application.
+Why JVm is used for complilation?
+It is responsible for converting Bytecode to Machine Specific Code.
+What happens if JVM is not available?
+Code will not Executed.
+What happens when JVM runs out of memory?
+JVM is unable to allocate and object due to insufficient space in the java heap.
